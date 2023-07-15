@@ -1,9 +1,26 @@
 <h1>Active Directory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<h3>What is Directory Service</h3>
+Before explaining “Active Directory”, let’s first discuss what is Directory Services. Directory Services is the software system that is used to store and locate data within a network. Prior to directory services, to locate a file, a user would need to know the files name, which server it is stored on, and the folder path. This may be acceptable in some small network, but organizations possess large amounts of data that needs to be easily accessible at any time. Active Directory is Microsoft answer this problem.
+
+<h3>What is Active Directory</h3>
+Active Directory does more than just store and locate data within the network, it also provides the method for making the information available to network users and administrators. Security is integrated into Active Directory, which uses Kerberos Authentication and SSO services. Users can use one set of credentials to gain access certain resources and services. In summary, Active Directory serves as a centralized security management solution that houses all network resources.
+
+<h3>What is Stored in Active Directory?</h3>
+There are two types of objects stored within the AD. The first is Container objects which are objects that store other objects. The second is Leaf objects which are individual objects that do not contain other objects. Common information stored in the AD includes:
+<br />
+<br />
+
+- User accounts and their passwords 
+- Computers
+- Printers
+- File Shares
+- Applications
+- Security Groups
+
+Active Directory enables administrators to centrally manage an organizations network. A few of the most common uses of AD include changing the hierarchy of objects, overseeing the access control list, and setting permissions for specific groups.
+
 <br />
 
 
@@ -17,11 +34,11 @@ Project consists of a simple PowerShell script that walks the user through "zero
 - <b>Windows 10</b>
 - <b>Windows Server 2019</b>
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure the network adapters with information from the network diagram: <br/>
+<img src="https://imgur.com/HM4f17B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
