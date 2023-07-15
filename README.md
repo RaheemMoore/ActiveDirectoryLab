@@ -1,10 +1,10 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-<h3>What is Directory Service</h3>
+<h3>What is Directory Service?</h3>
 Before explaining “Active Directory”, let’s first discuss what is Directory Services. Directory Services is the software system that is used to store and locate data within a network. Prior to directory services, to locate a file, a user would need to know the files name, which server it is stored on, and the folder path. This may be acceptable in some small network, but organizations possess large amounts of data that needs to be easily accessible at any time. Active Directory is Microsoft answer this problem.
 
-<h3>What is Active Directory</h3>
+<h3>What is Active Directory?</h3>
 Active Directory does more than just store and locate data within the network, it also provides the method for making the information available to network users and administrators. Security is integrated into Active Directory, which uses Kerberos Authentication and SSO services. Users can use one set of credentials to gain access certain resources and services. In summary, Active Directory serves as a centralized security management solution that houses all network resources.
 
 <h3>What is Stored in Active Directory?</h3>
