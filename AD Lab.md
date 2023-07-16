@@ -43,28 +43,40 @@ Configure the network adapters with information from the network diagram: <br/>
 <img src="https://imgur.com/HM4f17B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://imgur.com/a/kiyri6a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2:  <br/>
+<img src="https://imgur.com/NIMmfLm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3: <br/>
+<img src="https://imgur.com/bOZH4kn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+4:  <br/>
+<img src="https://imgur.com/3FPrjRY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+5:  <br/>
+<img src="https://imgur.com/nHY5hYM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+6:  <br/>
+<img src="https://imgur.com/DO7ajS7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+7:  <br/>
+<img src="https://imgur.com/Vc7zryN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+8:  <br/>
+<img src="https://imgur.com/zCAf6xL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+9:  <br/>
+<img src="https://imgur.com/Vg2LDbC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+10:  <br/>
+<img src="https://imgur.com/xMkzHT9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
