@@ -24,15 +24,17 @@ Active Directory enables administrators to centrally manage an organizations net
 <br />
 
 
-<h2>Goals</h2>
+<h2>Primary Skills</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>PowerShell</b>
+- <b>Windows OS</b>
+- <b>VMware</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
 - <b>Windows Server 2019</b>
+- <b>VMware Workstation</b>
 
 <h2>Lab walk-through:</h2>
 
