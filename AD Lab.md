@@ -39,6 +39,10 @@ Active Directory enables administrators to centrally manage an organizations net
 <h2>Lab walk-through:</h2>
 
 <p align="center">
+0:  <br/>
+<img src="https://imgur.com/sq3VIaY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Configure the network adapters with information from the network diagram: <br/>
 <img src="https://imgur.com/HM4f17B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
